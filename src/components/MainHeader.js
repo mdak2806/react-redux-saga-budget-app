@@ -1,5 +1,4 @@
 import React from 'react'
-import props from 'react'
 import {Header} from 'semantic-ui-react'
 
 function MainHeader({title, type}){
